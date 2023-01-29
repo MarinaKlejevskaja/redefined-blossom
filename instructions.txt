@@ -1,9 +1,10 @@
-Instructions
+Instructions:
 
 - Clone or download the repository
 - Open the index.html file in your preferred browser
 - (Optional) Edit the HTML, CSS, and jQuery code to fit your needs
 - If you made changes, save the files and refresh the browser to see the updated result
 - Enjoy!
+- Leave your feedback @maru_is_the_best
 
 Note: It is recommended to use a modern browser for optimal performance.
