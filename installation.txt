@@ -1,0 +1,2 @@
+Some instructions added regarding installation process
+------------------------------------------------------
