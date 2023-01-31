@@ -8,3 +8,7 @@ Instructions:
 - Leave your feedback @maru_is_the_best
 
 
+Note: It is recommended to use a modern browser for optimal performance.
+
+--------------------------
+some more changes on sample-branch
