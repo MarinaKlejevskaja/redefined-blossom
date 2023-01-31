@@ -9,5 +9,3 @@ Instructions:
 
 Note: It is recommended to use a modern browser for optimal performance.
 
-----------------------------------------------------------------
-Some more content added here
